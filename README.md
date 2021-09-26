@@ -7,33 +7,32 @@ Correr con
 
   sudo run --rm -it -p 25565:25565 '3 primeros digitos ID IMAGEN'
   
-  # Project Title
-
-Simple overview of use/purpose.
+  # Tarea 2 Taller de redes y servicios
 
 ## Description
 
-An in-depth paragraph about your project and overview of use.
+Docker build para servidor de minecraft
 
-## Getting Started
-
-### Dependencies
-
-* Describe any prerequisites, libraries, OS version, etc., needed before installing program.
-* ex. Windows 10
-
-### Installing
-
-* How/where to download your program
-* Any modifications needed to be made to files/folders
+## Requisitos Minimos
+Se requiere un minimo de 4GB de rams DISPONIBLES a la hora de ejecutar el servidor
 
 ### Executing program
 
-* How to run the program
-* Step-by-step bullets
+
+* Iniciar con CD a la ruta del folder que contiene Servidor3 y Dockerfile
+* Iniciar la build con el comando
 ```
-code blocks for commands
+sudo docker build -t servidor .
 ```
+* Ver imagen creada
+```
+sudo docker images
+```
+* Correr la imagen, con los 3 digitos primeros digitos de la ID de la imagen.
+```
+ sudo docker run --rm -it -p 25565:25565 'ID imagen'
+```
+
 
 ## Help
 
@@ -46,20 +45,17 @@ command to run if program contains helper info
 
 Contributors names and contact info
 
-ex. Dominique Pizzie  
-ex. [@DomPizzie](https://twitter.com/dompizzie)
+ex. Sebastian Arroyo  
+ex. Lucas Ibarra
 
 ## Version History
 
-* 0.2
-    * Various bug fixes and optimizations
-    * See [commit change]() or See [release history]()
-* 0.1
-    * Initial Release
+* 1.17.1
+
 
 ## License
 
-This project is licensed under the [NAME HERE] License - see the LICENSE.md file for details
+This project is licensed under the [MOJANG] License
 
 ## Acknowledgments
 
