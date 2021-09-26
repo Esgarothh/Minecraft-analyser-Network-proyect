@@ -1,0 +1,189 @@
+[02:24:07] [main/INFO]: Environment: authHost='https://authserver.mojang.com', accountsHost='https://api.mojang.com', sessionHost='https://sessionserver.mojang.com', servicesHost='https://api.minecraftservices.com', name='PROD'
+[02:24:08] [main/WARN]: Ambiguity between arguments [teleport, location] and [teleport, destination] with inputs: [0.1 -0.5 .9, 0 0 0]
+[02:24:08] [main/WARN]: Ambiguity between arguments [teleport, location] and [teleport, targets] with inputs: [0.1 -0.5 .9, 0 0 0]
+[02:24:08] [main/WARN]: Ambiguity between arguments [teleport, destination] and [teleport, targets] with inputs: [Player, 0123, @e, dd12be42-52a9-4a91-a8a1-11c01849e498]
+[02:24:08] [main/WARN]: Ambiguity between arguments [teleport, targets] and [teleport, destination] with inputs: [Player, 0123, dd12be42-52a9-4a91-a8a1-11c01849e498]
+[02:24:08] [main/WARN]: Ambiguity between arguments [teleport, targets, location] and [teleport, targets, destination] with inputs: [0.1 -0.5 .9, 0 0 0]
+[02:24:08] [main/INFO]: Reloading ResourceManager: Default
+[02:24:09] [Worker-Main-4/INFO]: Loaded 7 recipes
+[02:24:09] [Worker-Main-4/INFO]: Loaded 1137 advancements
+[02:24:11] [Server thread/INFO]: Starting minecraft server version 1.17.1
+[02:24:11] [Server thread/INFO]: Loading properties
+[02:24:11] [Server thread/INFO]: Default game type: SURVIVAL
+[02:24:11] [Server thread/INFO]: Generating keypair
+[02:24:12] [Server thread/INFO]: Starting Minecraft server on *:25565
+[02:24:12] [Server thread/INFO]: Using epoll channel type
+[02:24:12] [Server thread/WARN]: **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
+[02:24:12] [Server thread/WARN]: The server will make no attempt to authenticate usernames. Beware.
+[02:24:12] [Server thread/WARN]: While this makes the game possible to play without internet access, it also opens up the ability for hackers to connect with any username they choose.
+[02:24:12] [Server thread/WARN]: To change this, set "online-mode" to "true" in the server.properties file.
+[02:24:12] [Server thread/INFO]: Preparing level "world"
+[02:24:12] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
+[02:24:13] [Worker-Main-6/INFO]: Preparing spawn area: 0%
+[02:24:19] [Worker-Main-4/INFO]: Preparing spawn area: 0%
+[02:24:19] [Worker-Main-5/INFO]: Preparing spawn area: 0%
+[02:24:19] [Worker-Main-5/INFO]: Preparing spawn area: 0%
+[02:24:19] [Worker-Main-5/INFO]: Preparing spawn area: 0%
+[02:24:19] [Worker-Main-5/INFO]: Preparing spawn area: 0%
+[02:24:19] [Worker-Main-5/INFO]: Preparing spawn area: 0%
+[02:24:19] [Worker-Main-6/INFO]: Preparing spawn area: 0%
+[02:24:19] [Worker-Main-6/INFO]: Preparing spawn area: 0%
+[02:24:19] [Worker-Main-6/INFO]: Preparing spawn area: 0%
+[02:24:19] [Worker-Main-6/INFO]: Preparing spawn area: 0%
+[02:24:19] [Worker-Main-6/INFO]: Preparing spawn area: 0%
+[02:24:19] [Worker-Main-6/INFO]: Preparing spawn area: 0%
+[02:24:19] [Worker-Main-4/INFO]: Preparing spawn area: 0%
+[02:24:19] [Worker-Main-5/INFO]: Preparing spawn area: 7%
+[02:24:20] [Worker-Main-6/INFO]: Preparing spawn area: 11%
+[02:24:20] [Worker-Main-4/INFO]: Preparing spawn area: 30%
+[02:24:21] [Worker-Main-5/INFO]: Preparing spawn area: 68%
+[02:24:21] [Worker-Main-4/INFO]: Preparing spawn area: 71%
+[02:24:22] [Worker-Main-5/INFO]: Preparing spawn area: 75%
+[02:24:22] [Worker-Main-6/INFO]: Preparing spawn area: 83%
+[02:24:23] [Worker-Main-6/INFO]: Preparing spawn area: 84%
+[02:24:23] [Worker-Main-5/INFO]: Preparing spawn area: 84%
+[02:24:24] [Worker-Main-5/INFO]: Preparing spawn area: 85%
+[02:24:24] [Worker-Main-6/INFO]: Preparing spawn area: 89%
+[02:24:25] [Worker-Main-5/INFO]: Preparing spawn area: 92%
+[02:24:25] [Worker-Main-4/INFO]: Preparing spawn area: 99%
+[02:24:25] [Server thread/INFO]: Time elapsed: 13113 ms
+[02:24:25] [Server thread/INFO]: Done (13.315s)! For help, type "help"
+[02:25:04] [Server thread/INFO]: Esgarothh[/192.168.0.2:60745] logged in with entity id 180 at (32.7025750606532, 75.0, -161.88902418852268)
+[02:25:04] [Server thread/INFO]: Esgarothh joined the game
+[02:48:01] [Server thread/INFO]: <Esgarothh> asdas
+[02:48:05] [Server thread/INFO]: <Esgarothh> ASasASsaSAsaSASaSAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+[02:48:30] [Server thread/INFO]: Esgarothh has made the advancement [Hot Stuff]
+[02:49:10] [Server thread/INFO]: Villager bjr['Villager'/3034, l='ServerLevel[world]', x=60.88, y=64.44, z=-172.50] died, message: 'Villager tried to swim in lava'
+[02:49:10] [Server thread/INFO]: Villager bjr['Villager'/3049, l='ServerLevel[world]', x=60.47, y=64.82, z=-172.76] died, message: 'Villager tried to swim in lava'
+[02:49:12] [Server thread/INFO]: Villager bjr['Villager'/3018, l='ServerLevel[world]', x=60.19, y=64.25, z=-174.40] died, message: 'Villager tried to swim in lava'
+[02:49:12] [Server thread/INFO]: Villager bjr['Villager'/3066, l='ServerLevel[world]', x=61.89, y=64.53, z=-172.42] died, message: 'Villager tried to swim in lava'
+[02:49:12] [Server thread/INFO]: Villager bjr['Villager'/3075, l='ServerLevel[world]', x=60.69, y=64.12, z=-171.33] died, message: 'Villager tried to swim in lava'
+[02:49:12] [Server thread/INFO]: Villager bjr['Villager'/3074, l='ServerLevel[world]', x=62.08, y=64.33, z=-172.12] died, message: 'Villager tried to swim in lava'
+[02:49:13] [Server thread/INFO]: Villager bjr['Villager'/3076, l='ServerLevel[world]', x=60.69, y=64.82, z=-172.26] died, message: 'Villager tried to swim in lava'
+[02:49:13] [Server thread/INFO]: Villager bjr['Villager'/3077, l='ServerLevel[world]', x=61.46, y=64.47, z=-172.24] died, message: 'Villager tried to swim in lava'
+[02:49:13] [Server thread/INFO]: Villager bjr['Villager'/3071, l='ServerLevel[world]', x=61.76, y=64.32, z=-171.43] died, message: 'Villager tried to swim in lava'
+[02:49:15] [Server thread/INFO]: Villager bjr['Villager'/3050, l='ServerLevel[world]', x=62.34, y=64.00, z=-171.59] died, message: 'Villager tried to swim in lava'
+[02:49:15] [Server thread/INFO]: Villager bjr['Villager'/3070, l='ServerLevel[world]', x=63.83, y=64.00, z=-167.46] died, message: 'Villager burned to death'
+[02:49:15] [Server thread/INFO]: Villager bjr['Villager'/3057, l='ServerLevel[world]', x=64.90, y=64.00, z=-174.16] died, message: 'Villager burned to death'
+[02:49:19] [Server thread/INFO]: Villager bjr['Villager'/3052, l='ServerLevel[world]', x=67.55, y=64.00, z=-160.23] died, message: 'Villager burned to death'
+[02:49:19] [Server thread/INFO]: Villager bjr['Villager'/3062, l='ServerLevel[world]', x=56.13, y=67.02, z=-168.58] died, message: 'Villager burned to death'
+[02:49:23] [Server thread/INFO]: Villager bjr['Villager'/3078, l='ServerLevel[world]', x=54.41, y=69.00, z=-164.14] died, message: 'Villager burned to death'
+[02:50:13] [Server thread/INFO]: Villager bjr['Villager'/3211, l='ServerLevel[world]', x=63.26, y=64.00, z=-169.91] died, message: 'Villager burned to death'
+[02:50:19] [Server thread/INFO]: Villager bjr['Villager'/3270, l='ServerLevel[world]', x=61.57, y=64.02, z=-170.76] died, message: 'Villager tried to swim in lava'
+[02:50:26] [Server thread/INFO]: Villager bjr['Villager'/3265, l='ServerLevel[world]', x=61.41, y=64.00, z=-170.12] died, message: 'Villager tried to swim in lava'
+[02:50:45] [Server thread/INFO]: Villager bjr['Villager'/3264, l='ServerLevel[world]', x=60.54, y=67.00, z=-165.81] died, message: 'Villager burned to death'
+[02:56:00] [Server thread/INFO]: Villager bjr['Villager'/3245, l='ServerLevel[world]', x=33.70, y=71.00, z=-165.30] died, message: 'Villager was slain by Zombie'
+[02:56:40] [Server thread/INFO]: Villager bjr['Villager'/3260, l='ServerLevel[world]', x=-5.74, y=64.00, z=-188.30] died, message: 'Villager was slain by Zombie'
+[02:57:20] [Server thread/INFO]: Villager bjr['Villager'/3232, l='ServerLevel[world]', x=-12.32, y=66.00, z=-184.18] died, message: 'Villager was slain by Zombie'
+[02:57:28] [Server thread/INFO]: Villager bjr['Villager'/3254, l='ServerLevel[world]', x=-5.70, y=65.00, z=-185.30] died, message: 'Villager was slain by Zombie'
+[02:57:43] [Server thread/INFO]: Villager bjr['Villager'/3204, l='ServerLevel[world]', x=48.96, y=58.00, z=-172.26] died, message: 'Villager hit the ground too hard'
+[02:58:06] [Server thread/INFO]: Villager bjr['Villager'/3207, l='ServerLevel[world]', x=64.25, y=64.00, z=-172.22] died, message: 'Villager tried to swim in lava to escape Drowned'
+[02:58:11] [Server thread/INFO]: Villager bjr['Villager'/3235, l='ServerLevel[world]', x=35.30, y=66.00, z=-156.70] died, message: 'Villager was slain by Drowned'
+[02:58:15] [Server thread/INFO]: Villager bjr['Villager'/3022, l='ServerLevel[world]', x=34.14, y=69.00, z=-175.46] died, message: 'Villager was slain by Zombie Villager'
+[02:58:25] [Server thread/INFO]: Villager bjr['Villager'/3231, l='ServerLevel[world]', x=52.30, y=68.00, z=-159.70] died, message: 'Villager was slain by Drowned'
+[02:59:00] [Server thread/INFO]: Villager bjr['Villager'/3069, l='ServerLevel[world]', x=46.82, y=57.33, z=-177.80] died, message: 'Villager was slain by Zombie'
+[02:59:36] [Server thread/INFO]: Villager bjr['Villager'/3035, l='ServerLevel[world]', x=35.15, y=67.00, z=-157.41] died, message: 'Villager was slain by Drowned'
+[02:59:43] [Server thread/INFO]: Villager bjr['Villager'/3243, l='ServerLevel[world]', x=-12.70, y=66.18, z=-191.45] died, message: 'Villager was slain by Zombie Villager'
+[03:00:01] [Server thread/INFO]: Villager bjr['Villager'/3200, l='ServerLevel[world]', x=11.76, y=73.00, z=-171.40] died, message: 'Villager was slain by Drowned'
+[03:00:22] [Server thread/INFO]: Villager bjr['Villager'/3212, l='ServerLevel[world]', x=38.85, y=72.00, z=-165.53] died, message: 'Villager was slain by Drowned'
+[03:00:37] [Server thread/INFO]: Villager bjr['Villager'/3236, l='ServerLevel[world]', x=-13.30, y=66.00, z=-187.70] died, message: 'Villager was slain by Zombie'
+[03:00:58] [Server thread/INFO]: Villager bjr['Villager'/3216, l='ServerLevel[world]', x=40.30, y=72.00, z=-165.50] died, message: 'Villager was slain by Drowned'
+[03:01:08] [Server thread/INFO]: Villager bjr['Villager'/3268, l='ServerLevel[world]', x=26.64, y=72.25, z=-165.76] died, message: 'Villager was slain by Zombie'
+[03:01:16] [Server thread/INFO]: Villager bjr['Villager'/3272, l='ServerLevel[world]', x=33.30, y=69.00, z=-157.68] died, message: 'Villager was slain by Drowned'
+[03:01:24] [Server thread/INFO]: Villager bjr['Villager'/3213, l='ServerLevel[world]', x=33.15, y=69.00, z=-157.49] died, message: 'Villager was slain by Drowned'
+[03:01:30] [Server thread/INFO]: Villager bjr['Villager'/3226, l='ServerLevel[world]', x=46.46, y=57.49, z=-176.61] died, message: 'Villager was slain by Zombie'
+[03:01:42] [Server thread/INFO]: Villager bjr['Villager'/3038, l='ServerLevel[world]', x=46.81, y=57.53, z=-177.84] died, message: 'Villager was slain by Zombie'
+[03:01:57] [Server thread/INFO]: Villager bjr['Villager'/3067, l='ServerLevel[world]', x=46.83, y=57.28, z=-177.80] died, message: 'Villager was slain by Zombie'
+[03:02:47] [Server thread/INFO]: Villager bjr['Villager'/3248, l='ServerLevel[world]', x=49.70, y=65.00, z=-154.70] died, message: 'Villager was slain by Zombie'
+[03:03:00] [Server thread/INFO]: Villager bjr['Villager'/3262, l='ServerLevel[world]', x=33.30, y=69.00, z=-157.68] died, message: 'Villager was slain by Zombie'
+[03:03:03] [Server thread/INFO]: Villager bjr['Villager'/3040, l='ServerLevel[world]', x=-16.15, y=67.18, z=-190.66] died, message: 'Villager was slain by Drowned'
+[03:03:08] [Server thread/INFO]: Villager bjr['Villager'/3234, l='ServerLevel[world]', x=35.30, y=73.00, z=-166.56] died, message: 'Villager was slain by Zombie'
+[03:03:13] [Server thread/INFO]: Villager bjr['Villager'/3266, l='ServerLevel[world]', x=33.70, y=71.00, z=-166.75] died, message: 'Villager was slain by Zombie'
+[03:03:31] [Server thread/INFO]: Villager bjr['Villager'/3250, l='ServerLevel[world]', x=23.69, y=70.00, z=-165.39] died, message: 'Villager hit the ground too hard'
+[03:03:35] [Server thread/INFO]: Villager bjr['Villager'/3073, l='ServerLevel[world]', x=37.48, y=64.00, z=-153.08] died, message: 'Villager was slain by Zombie'
+[03:10:16] [Server thread/INFO]: Villager bjr['Villager'/3214, l='ServerLevel[world]', x=39.64, y=69.00, z=-167.21] died, message: 'Villager suffocated in a wall'
+[03:21:10] [Server thread/INFO]: Villager bjr['Villager'/3054, l='ServerLevel[world]', x=40.30, y=61.00, z=-168.82] died, message: 'Villager hit the ground too hard'
+[03:57:41] [Server thread/INFO]: /advancement (grant|revoke)
+[03:57:41] [Server thread/INFO]: /attribute <target> <attribute> (get|base|modifier)
+[03:57:41] [Server thread/INFO]: /execute (run|if|unless|as|at|store|positioned|rotated|facing|align|anchored|in)
+[03:57:41] [Server thread/INFO]: /bossbar (add|remove|list|set|get)
+[03:57:41] [Server thread/INFO]: /clear [<targets>]
+[03:57:41] [Server thread/INFO]: /clone <begin> <end> <destination> [replace|masked|filtered]
+[03:57:41] [Server thread/INFO]: /data (merge|get|remove|modify)
+[03:57:41] [Server thread/INFO]: /datapack (enable|disable|list)
+[03:57:41] [Server thread/INFO]: /debug (start|stop|function)
+[03:57:41] [Server thread/INFO]: /defaultgamemode (survival|creative|adventure|spectator)
+[03:57:41] [Server thread/INFO]: /difficulty [peaceful|easy|normal|hard]
+[03:57:41] [Server thread/INFO]: /effect (clear|give)
+[03:57:41] [Server thread/INFO]: /me <action>
+[03:57:41] [Server thread/INFO]: /enchant <targets> <enchantment> [<level>]
+[03:57:41] [Server thread/INFO]: /experience (add|set|query)
+[03:57:41] [Server thread/INFO]: /xp -> experience
+[03:57:41] [Server thread/INFO]: /fill <from> <to> <block> [replace|keep|outline|hollow|destroy]
+[03:57:41] [Server thread/INFO]: /forceload (add|remove|query)
+[03:57:41] [Server thread/INFO]: /function <name>
+[03:57:41] [Server thread/INFO]: /gamemode (survival|creative|adventure|spectator)
+[03:57:41] [Server thread/INFO]: /gamerule (announceAdvancements|commandBlockOutput|disableElytraMovementCheck|disableRaids|doDaylightCycle|doEntityDrops|doFireTick|doImmediateRespawn|doInsomnia|doLimitedCrafting|doMobLoot|doMobSpawning|doPatrolSpawning|doTileDrops|doTraderSpawning|doWeatherCycle|drowningDamage|fallDamage|fireDamage|forgiveDeadPlayers|freezeDamage|keepInventory|logAdminCommands|maxCommandChainLength|maxEntityCramming|mobGriefing|naturalRegeneration|playersSleepingPercentage|randomTickSpeed|reducedDebugInfo|sendCommandFeedback|showDeathMessages|spawnRadius|spectatorsGenerateChunks|universalAnger)
+[03:57:41] [Server thread/INFO]: /give <targets> <item> [<count>]
+[03:57:41] [Server thread/INFO]: /help [<command>]
+[03:57:41] [Server thread/INFO]: /item (replace|modify)
+[03:57:41] [Server thread/INFO]: /kick <targets> [<reason>]
+[03:57:41] [Server thread/INFO]: /kill [<targets>]
+[03:57:41] [Server thread/INFO]: /list [uuids]
+[03:57:41] [Server thread/INFO]: /locate (pillager_outpost|mineshaft|mansion|jungle_pyramid|desert_pyramid|igloo|ruined_portal|shipwreck|swamp_hut|stronghold|monument|ocean_ruin|fortress|endcity|buried_treasure|village|nether_fossil|bastion_remnant)
+[03:57:41] [Server thread/INFO]: /locatebiome <biome>
+[03:57:41] [Server thread/INFO]: /loot (replace|insert|give|spawn)
+[03:57:41] [Server thread/INFO]: /msg <targets> <message>
+[03:57:41] [Server thread/INFO]: /tell -> msg
+[03:57:41] [Server thread/INFO]: /w -> msg
+[03:57:41] [Server thread/INFO]: /particle <name> [<pos>]
+[03:57:41] [Server thread/INFO]: /playsound <sound> (master|music|record|weather|block|hostile|neutral|player|ambient|voice)
+[03:57:41] [Server thread/INFO]: /reload
+[03:57:41] [Server thread/INFO]: /recipe (give|take)
+[03:57:41] [Server thread/INFO]: /say <message>
+[03:57:41] [Server thread/INFO]: /schedule (function|clear)
+[03:57:41] [Server thread/INFO]: /scoreboard (objectives|players)
+[03:57:41] [Server thread/INFO]: /seed
+[03:57:41] [Server thread/INFO]: /setblock <pos> <block> [destroy|keep|replace]
+[03:57:41] [Server thread/INFO]: /spawnpoint [<targets>]
+[03:57:41] [Server thread/INFO]: /setworldspawn [<pos>]
+[03:57:41] [Server thread/INFO]: /spectate [<target>]
+[03:57:41] [Server thread/INFO]: /spreadplayers <center> <spreadDistance> <maxRange> (<respectTeams>|under)
+[03:57:41] [Server thread/INFO]: /stopsound <targets> [*|master|music|record|weather|block|hostile|neutral|player|ambient|voice]
+[03:57:41] [Server thread/INFO]: /summon <entity> [<pos>]
+[03:57:41] [Server thread/INFO]: /tag <targets> (add|remove|list)
+[03:57:41] [Server thread/INFO]: /team (list|add|remove|empty|join|leave|modify)
+[03:57:41] [Server thread/INFO]: /teammsg <message>
+[03:57:41] [Server thread/INFO]: /tm -> teammsg
+[03:57:41] [Server thread/INFO]: /teleport (<location>|<destination>|<targets>)
+[03:57:41] [Server thread/INFO]: /tp -> teleport
+[03:57:41] [Server thread/INFO]: /tellraw <targets> <message>
+[03:57:41] [Server thread/INFO]: /time (set|add|query)
+[03:57:41] [Server thread/INFO]: /title <targets> (clear|reset|title|subtitle|actionbar|times)
+[03:57:41] [Server thread/INFO]: /trigger <objective> [add|set]
+[03:57:41] [Server thread/INFO]: /weather (clear|rain|thunder)
+[03:57:41] [Server thread/INFO]: /worldborder (add|set|center|damage|get|warning)
+[03:57:41] [Server thread/INFO]: /ban-ip <target> [<reason>]
+[03:57:41] [Server thread/INFO]: /banlist [ips|players]
+[03:57:41] [Server thread/INFO]: /ban <targets> [<reason>]
+[03:57:41] [Server thread/INFO]: /deop <targets>
+[03:57:41] [Server thread/INFO]: /op <targets>
+[03:57:41] [Server thread/INFO]: /pardon <targets>
+[03:57:41] [Server thread/INFO]: /pardon-ip <target>
+[03:57:41] [Server thread/INFO]: /perf (start|stop)
+[03:57:41] [Server thread/INFO]: /save-all [flush]
+[03:57:41] [Server thread/INFO]: /save-off
+[03:57:41] [Server thread/INFO]: /save-on
+[03:57:41] [Server thread/INFO]: /setidletimeout <minutes>
+[03:57:41] [Server thread/INFO]: /stop
+[03:57:41] [Server thread/INFO]: /whitelist (on|off|list|add|remove|reload)
+[03:57:54] [Server thread/INFO]: Set the time to 1000
+[04:24:22] [Server thread/INFO]: Villager bjr['Villager'/3215, l='ServerLevel[world]', x=20.42, y=61.00, z=-166.50] died, message: 'Villager hit the ground too hard'
+[04:27:29] [Server thread/INFO]: Villager bjr['Villager'/3225, l='ServerLevel[world]', x=40.70, y=61.00, z=-168.92] died, message: 'Villager hit the ground too hard'
+[04:38:49] [Server thread/INFO]: Esgarothh lost connection: Disconnected
+[04:38:49] [Server thread/INFO]: Esgarothh left the game
+[04:39:23] [Server thread/INFO]: Esgarothh[/192.168.0.2:54628] logged in with entity id 11678 at (36.53924058892691, 63.0, 24.325068479507813)
+[04:39:23] [Server thread/INFO]: Esgarothh joined the game
+[19:16:26] [Server thread/INFO]: Esgarothh lost connection: Timed out
+[19:16:26] [Server thread/INFO]: Esgarothh left the game
+[19:16:27] [Server thread/WARN]: handleDisconnection() called twice
