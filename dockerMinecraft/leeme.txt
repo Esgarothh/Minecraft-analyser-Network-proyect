@@ -1,0 +1,3 @@
+Este juego requiere que se ejecute el siguiente comando 
+sudo docker run -ti --rm -e DISPLAY -v /tmp/.X11-unix:/tmp/.X11-unix  -v $HOME/.Xauthority:$HOME/.Xauthority --net=host tlauncherfuncionando /bin/bash
+para poder ejecutar la imagen, mas tarde se debe ejecutar en la consola : " java -jar Tlauncher-2.72.jar"
