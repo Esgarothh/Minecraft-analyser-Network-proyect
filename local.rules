@@ -1,0 +1,18 @@
+#alert tcp any 25565 -> any any (msg: "viene del sv" ; sid:1000002;)
+#alert tcp any any -> any any (msg: "hacia el sv mas brazo"; pcre: "/\x02\x2c/";sid:1000001;)
+alert tcp any any -> any 25565 (msg: "Rule1 PCRE - link web"; pcre: "/http/";  sid:1000003;)
+alert tcp any any -> any 25565 (msg: "Rule1 PCRE - link web"; pcre: "/www/" ; sid:1000004;)
+
+#rule 2 especial, para ver que ip de entrada se utiliza
+alert tcp any any -> any 25565 (msg:"Rule2 HANDSHAKE - alerta ip";content:"|00|";offset:1;depth:1;content:"172.17.0.3";flow:established;sid:1000010;)
+
+#rule 3
+alert tcp any any -> any 25565 (msg:"Rule3 offset a, solicitud handshake"; content:"|00 f4 05 0a|"; offset:1;rawbytes;sid:1000005;)
+alert tcp any any -> any 25565 (msg:"Rule3 offset b,  item siendo usado"; content:"|2f|"; offset:1;depth:1; rawbytes; sid:1000006;)
+alert tcp any any -> any 25565 (msg:"Rule3 offset c Se ha creado un letrero en el juego"; content:"|2b|"; offset:1; depth:1;  rawbytes;sid:1000007;)
+#rule 4
+alert tcp any any -> any 25565 (msg:"Rule4 dsize - SPAM";content:"|03|";offset:1;dsize:200<>400;rawbytes;sid:1000008;)
+#rule 5
+alert tcp any any -> any 25565 (msg:"Rule5 FLOW - solicitud hacia el servidor, con conexion no establecida?";flow:not_established;sid:1000009;)
+
+#alert tcp any any -> any any (msg: "Mensaje grande, posible SPAM?"; pcre: "/\x03+/"; dsize:150<>500; sid:1000002;)
